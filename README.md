@@ -1,4 +1,4 @@
-![](./github-header-image.png)
+![Header](./your-header-image-name.png)
 ![github-header-image (2)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/8f514cf7-bfab-4baa-81d0-886a875209f6)
 
 
