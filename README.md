@@ -1,5 +1,4 @@
-<div id ='badges' align = 'center'  >
-![](./your-header-image-name.png)
+<div id ='badges' align = 'center'  
 
 
 ![github-header-image](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/2aa88362-ff45-4640-ab7f-92c084eee36a)
