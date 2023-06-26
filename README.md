@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi World!! 👋
+I am FrontEnd Developer based in South Korea
 
 <!--
 **rukhillo6663/rukhillo6663** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on FrontEnd project using React JS and Next JS
+- 🌱 I’m currently learning TypeScript and Tailwind 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
