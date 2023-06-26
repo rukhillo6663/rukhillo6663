@@ -1,4 +1,6 @@
 ![Hello](./github-header-image.png)
+![github-header-image (1)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/3125f6ae-fa53-46bb-96e7-db744fd73d04)
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
