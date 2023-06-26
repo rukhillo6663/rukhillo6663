@@ -13,6 +13,7 @@
   </a>
 </div>
 <div id="badges" align = 'center' >
+  ![](https://komarev.com/ghpvc/?rukhillo6663)
   <img src="https://komarev.com/ghpvc/?rukhillo6663&style=flat-square&color=blue" alt=""/>
 </div>
 
