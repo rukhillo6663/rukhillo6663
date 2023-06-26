@@ -1,6 +1,7 @@
-![Header](./your-header-image-name.png)
+![](./your-header-image-name.png)
 
-![github-header-image (3)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/a1ed834d-ff22-4a43-89e0-2518ae9d1b81)
+
+![github-header-image (4)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/eaed8af2-cc94-44e4-afed-f5d38151893d)
 
 
 <div id="header" align="center">
