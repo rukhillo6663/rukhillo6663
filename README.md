@@ -58,4 +58,4 @@
 ---
 
 ### :fire: My Stats :
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rukhillo6663?cardType=level-alternate&theme=github&preferLogin=true)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rukhillo6663?cardType=level-alternate&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
