@@ -1,8 +1,7 @@
 ![](./your-header-image-name.png)
 
-![github-header-image (5)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/1c302608-a959-4500-a684-f6b2d2aae365)
 
-![github-header-image (6)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/79aecff7-7be3-4c4c-a700-7bf92381d8a2)
+![github-header-image](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/2aa88362-ff45-4640-ab7f-92c084eee36a)
 
 
 
