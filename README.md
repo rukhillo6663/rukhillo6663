@@ -1,4 +1,4 @@
-<div>   ![](./your-header-image-name.png)
+<div id  = 'badges'>   ![](./your-header-image-name.png)
 ![github-header-image (7)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/5100a521-de57-4192-8bb8-a84f6fd56e25)
 </div>
 
