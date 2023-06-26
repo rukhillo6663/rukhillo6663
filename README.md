@@ -64,5 +64,5 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rukhillo6663)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?rukhillo6663&theme=dark&background=000000)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rukhillo6663&theme=dark&background=000000)](https://git.io/streak-stats)
+
