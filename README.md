@@ -58,4 +58,4 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=rukhillo6663&theme=highcontrast&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rukhillo6663?cardType=level-alternate&theme=github&preferLogin=true)](https://git.io/awesome-stats-card)
