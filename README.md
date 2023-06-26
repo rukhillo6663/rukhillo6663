@@ -13,8 +13,8 @@
   </a>
 </div>
 <div id="badges" align = 'center' >
-  ![](https://komarev.com/ghpvc/?rukhillo6663)
-  <img src="https://komarev.com/ghpvc/?rukhillo6663&style=flat-square&color=blue" alt=""/>
+  
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 I am FrontEnd Developer based in South Korea
