@@ -67,7 +67,7 @@
 ### :fire: My Stats :
 ![rukhillo6663's Stats](https://github-readme-stats.vercel.app/api?username=rukhillo6663&theme=default&show_icons=true&hide_border=false&count_private=true)
 ![rukhillo6663's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rukhillo6663&theme=default&hide_border=false)
-![rukhillo6663's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhillo6663&theme=default&show_icons=true&hide_border=false&layout=compact)
+
 ### 📢: Most used language:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhillo6663&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhillo6663&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
