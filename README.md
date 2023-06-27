@@ -16,7 +16,7 @@
 </a>
  -->
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rukhillo6663&label=Profile%20views&color=0e75b6&style=flat" alt="rukhillo6663" /> </p>
+<p  id="badges" align = 'center'> <img src="https://komarev.com/ghpvc/?username=rukhillo6663&label=Profile%20views&color=0e75b6&style=flat" alt="rukhillo6663" /> </p>
 <div id="badges" align = 'center' >
   
   <img src="https://komarev.com/ghpvc/?rukhillo6663&style=flat-square&color=blue" alt=""/>
