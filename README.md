@@ -67,6 +67,6 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rukhillo6663?cardType=level-alternate&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
 ### 📢: Most used language:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhillo6663&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhillo6663)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhillo6663&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
