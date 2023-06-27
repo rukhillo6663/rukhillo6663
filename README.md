@@ -30,16 +30,16 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/rukhillo6663?color=yellow&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/rukhillo-kdoirov">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.2k-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://twitter.com/rukhillo6663">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter">
   </a>
   <a href="https://www.facebook.com/ruhillo.qodirov">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-1.9K-blue?color=yellowgreen&logo=facebook">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-600-blue?color=yellowgreen&logo=facebook">
   </a>
 </p>
-<p  id="badges" align = 'center'> <img src="https://komarev.com/ghpvc/?username=rukhillo6663&label=Profile%20views&color=0e75b6&style=flat" alt="rukhillo6663" /> </p>
+<!--<p  id="badges" align = 'center'> <img src="https://komarev.com/ghpvc/?username=rukhillo6663&label=Profile%20views&color=0e75b6&style=flat" alt="rukhillo6663" /> </p> -->
 <div id="badges" align = 'center' >
   
   <img src="https://komarev.com/ghpvc/?rukhillo6663&style=flat-square&color=blue" alt=""/>
