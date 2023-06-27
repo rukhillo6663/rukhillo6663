@@ -21,7 +21,7 @@
     <img src="https://komarev.com/ghpvc/?username=rukhillo6663&color=red" alt="profile views"  width = '150px'/>
   </a>
   <a href="https://github.com/rukhillo6663/rukhillo6663">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views"  width = '150px'/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
   </a>
   <a href="https://codemaker2015.medium.com">
     <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium"  width = '150px'>
