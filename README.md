@@ -1,16 +1,6 @@
   ![](./your-header-image-name.png)
 ![github-header-image (9)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/4a1efd27-4c85-4f6e-ada9-066e5430c4b5)
 
-
-
-
-
-
-
-  
-  
-
-
 <div id="badges" align = 'center' >
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,6 +16,7 @@
 </a>
  -->
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rukhillo6663&label=Profile%20views&color=0e75b6&style=flat" alt="rukhillo6663" /> </p>
 <div id="badges" align = 'center' >
   
   <img src="https://komarev.com/ghpvc/?rukhillo6663&style=flat-square&color=blue" alt=""/>
