@@ -80,6 +80,9 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhillo6663&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rukhillo6663&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=rukhillo6663&theme=xcode)
 
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=rukhillo6663&theme=discord)
 
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
