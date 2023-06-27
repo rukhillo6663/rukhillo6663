@@ -18,25 +18,25 @@
 </div>
 <p align="left">
   <a href="https://github.com/codemaker2015/codemaker2015">
-    <img src="https://komarev.com/ghpvc/?username=rukhillo6663&color=red" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=rukhillo6663&color=red" alt="profile views"  width = '150px'/>
   </a>
   <a href="https://github.com/rukhillo6663/rukhillo6663">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="page views"  width = '150px'/>
   </a>
   <a href="https://codemaker2015.medium.com">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium">
+    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium"  width = '150px'>
   </a>
   <a href="https://github.com/rukhillo6663?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/rukhillo6663?color=yellow&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/rukhillo6663?color=yellow&logo=github"  width = '150px'>
   </a>
   <a href="https://www.linkedin.com/in/rukhillo-kodirov">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.2k+-blue?color=blue&logo=linkedin">
+    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.2k+-blue?color=blue&logo=linkedin"  width = '150px'>
   </a>
   <a href="https://twitter.com/rukhillo6663">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter" width = '200px'>
+    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter" width = '150px'>
   </a>
   <a href="https://www.facebook.com/ruhillo.qodirov">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-600-blue?color=yellowgreen&logo=facebook">
+    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-600-blue?color=yellowgreen&logo=facebook"  width = '150px'>
   </a>
 </p>
 <!--<p  id="badges" align = 'center'> <img src="https://komarev.com/ghpvc/?username=rukhillo6663&label=Profile%20views&color=0e75b6&style=flat" alt="rukhillo6663" /> </p> -->
