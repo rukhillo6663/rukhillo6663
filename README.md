@@ -33,7 +33,7 @@
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.2k+-blue?color=blue&logo=linkedin">
   </a>
   <a href="https://twitter.com/rukhillo6663">
-    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter" width = '50px'>
+    <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter" width = '200px'>
   </a>
   <a href="https://www.facebook.com/ruhillo.qodirov">
     <img alt="Facebook friends" src="https://img.shields.io/badge/friends-600-blue?color=yellowgreen&logo=facebook">
