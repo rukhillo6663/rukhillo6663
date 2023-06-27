@@ -28,6 +28,7 @@
 <div id="badges" align = 'center' >
   
   <img src="https://komarev.com/ghpvc/?rukhillo6663&style=flat-square&color=blue" alt=""/>
+  ![](https://komarev.com/ghpvc/?username=your-github-username)
 </div>
 <br>
 <div align="center">
