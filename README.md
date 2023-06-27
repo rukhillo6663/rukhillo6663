@@ -20,9 +20,6 @@
   <a href="https://github.com/codemaker2015/codemaker2015">
     <img src="https://komarev.com/ghpvc/?username=rukhillo6663&color=red" alt="profile views"  width = '150px'/>
   </a>
-  <a href="https://codemaker2015.medium.com">
-    <img alt="Medium" src="https://img.shields.io/badge/medium-40+-lightgrey?color=lightgrey&logo=medium"  width = '150px'>
-  </a>
   <a href="https://github.com/rukhillo6663?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/rukhillo6663?color=yellow&logo=github"  width = '150px'>
   </a>
