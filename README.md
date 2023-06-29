@@ -2,13 +2,13 @@
 ![github-header-image (9)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/4a1efd27-4c85-4f6e-ada9-066e5430c4b5)
 
 <div id="badges" align = 'center' >
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/rukhillo-kodirov/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Rukhillo6663">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  <!-- <a href="https://www.instagram.com/thepiyushmalhotra/">
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/rukhillo-kodirov">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.2k+-blue?color=blue&logo=linkedin"  width = '170px'>
   </a>
-  <a href="https://twitter.com/rukhillo6663">
+  <a href="https://twitter.com/Rukhillo6663?tba=folowwers">
     <img alt="Twitter followers" src="https://img.shields.io/badge/followers-1-blue?color=orange&logo=twitter" width = '150px'>
   </a>
   <a href="https://www.facebook.com/ruhillo.qodirov">
