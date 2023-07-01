@@ -1,6 +1,9 @@
   ![](./your-header-image-name.png)
-![github-header-image (9)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/4a1efd27-4c85-4f6e-ada9-066e5430c4b5)
-<img src = 'https://github.com/rukhillo6663/rukhillo6663/assets/113366887/4a1efd27-4c85-4f6e-ada9-066e5430c4b5'/>
+<!--![github-header-image (9)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/4a1efd27-4c85-4f6e-ada9-066e5430c4b5)-->
+<div id="badges" align = 'center' >
+  <img src = 'https://github.com/rukhillo6663/rukhillo6663/assets/113366887/4a1efd27-4c85-4f6e-ada9-066e5430c4b5'/>
+</div>
+
 <div id="badges" align = 'center' >
     <a href="https://github.com/codemaker2015/codemaker2015">
     <img src="https://komarev.com/ghpvc/?username=rukhillo6663&color=red" alt="profile views"  width = '150px'/>
