@@ -43,7 +43,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read  article.
 
-- :mailbox:How to reach me: [rukhillo6663@gmail.com](mailto:rukhillo6663@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- :mailbox:How to reach me: [<img src = 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>](mailto:rukhillo6663@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
   ---
 
 
