@@ -43,7 +43,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read  article.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rukhillo6663@gmail.com/)
+- :mailbox:How to reach me: <img src = 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
   ---
 
 
