@@ -3,6 +3,7 @@
 <div id="badges" align = 'center' >
   <img src = 'https://github.com/rukhillo6663/rukhillo6663/assets/113366887/4a1efd27-4c85-4f6e-ada9-066e5430c4b5'/>
 </div>
+<br>
 
 <div id="badges" align = 'center' >
     <a href="https://github.com/codemaker2015/codemaker2015">
