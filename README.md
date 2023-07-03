@@ -9,13 +9,13 @@
     <a href="https://github.com/codemaker2015/codemaker2015">
     <img src="https://komarev.com/ghpvc/?username=rukhillo6663&color=red" alt="profile views"  width = '150px'/>
   </a>
-  <a href="https://www.linkedin.com/in/rukhillo-kodirov/">
+  <a href="https://www.linkedin.com/in/rukhillo-kodirov/" target = 'blank'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Rukhillo6663">
+  <a href="https://twitter.com/Rukhillo6663" target = 'blank'>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-   <a href="https://www.facebook.com/ruhillo.qodirov">
+   <a href="https://www.facebook.com/ruhillo.qodirov" target = 'blank'>
     <img alt="Facebook friends"  src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" >
   </a>
 </div>
