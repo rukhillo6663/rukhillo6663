@@ -39,7 +39,7 @@
 </div>
 - :telescope: I’m working as a FrondEnd Developer  and contributing to frontend for building web applications.
 
-- :seedling: Exploring TypeScript and Tailwind.
+- :seedling: Exploring TypeScript and NestJS.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read  article.
 
