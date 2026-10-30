@@ -1,7 +1,7 @@
   ![](./your-header-image-name.png)
 <!--![github-header-image (9)](https://github.com/rukhillo6663/rukhillo6663/assets/113366887/4a1efd27-4c85-4f6e-ada9-066e5430c4b5)-->
 <div id="badges" align = 'center' >
-  <img src = 'https://github.com/rukhillo6663/rukhillo6663/assets/113366887/4a1efd27-4c85-4f6e-ada9-066e5430c4b5'/>
+  <img src = './header-banner.png'/>
 </div>
 <br>
 
@@ -37,11 +37,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-- :telescope: I’m working as a FrondEnd Developer  and contributing to frontend for building web applications.
+- :telescope: I’m a Senior Quality Assurance & CRM Specialist (AI Automation) at Washmen in Dubai, with 6 years in customer experience, CRM and operations. I build AI workflows that take manual work off customer and CRM teams.
 
-- :seedling: Exploring TypeScript and NestJS.
+- :chart_with_upwards_trend: Cut CS agents’ daily handling time from about 2 hours to about 20 minutes with AI workflows and agents. Built a Slack dispatch automation that classifies 100 to 200 messages a day. Ran HubSpot and Zapier campaigns (email, WhatsApp, push) that lifted customer engagement by 21%.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read  article.
+- :seedling: Building multi-agent systems with Claude Code, ChatGPT and Codex, with quality gates on AI output (automated checks, tests, human review).
+
+- :zap: Projects: a 9-agent content pipeline that researches, writes, fact-checks and quality-checks posts for two brands, and Falaj, a personal finance app built with a 6-agent AI development team.
+
+- :speech_balloon: **English** (Fluent), **Russian** (Native), **Persian** (Native), **Turkish** (Fluent), **Korean** (Professional Working).
 
 - :mailbox:How to reach me: [<img src = 'https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>](mailto:rukhillo6663@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
@@ -49,6 +53,11 @@
 
 
 ### :hammer_and_wrench: Languages and Tools : <br>
+
+**AI & Automation:** Claude Code, ChatGPT, Codex, AI agent workflows, Zapier, prompt design, AI output QA<br>
+**CRM & Platforms:** HubSpot, Salesforce, Monday CRM, Asana, Slack automation<br>
+**Data & Code:** HubSpot dashboards, KPI analysis, Power BI (working knowledge), JavaScript / Node.js
+
 <div>
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
